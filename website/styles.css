@@ -1,0 +1,28 @@
+body {
+	background-color:cyan;
+	background-image:url(https://www.continental-automotive.com/getattachment/8954848e-f4cb-4921-bec3-8079bc979f4c/.aspx);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	}
+	
+h1 {
+	color:green;
+	}
+
+p {
+	color:blue;
+	font-size:130%;
+	}
+	
+a:link ,a:visited{
+	background-color:brown;
+	color:yellow;
+	padding: 15px 25px;
+	text-align:center;
+	display: inline-block;
+	}
+	
+a:hover, a:active {
+  background-color: black;
+}
